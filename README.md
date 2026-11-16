@@ -27,7 +27,24 @@ The report addresses five key business questions:
 5. How can transaction-level analysis support better financial decisions?
 
 ---
+## Dashboard Preview
 
+### Financial Overview
+![Financial Overview](screenshots/01_financial_overview.png)
+
+### Financial Analysis
+![Financial Analysis](screenshots/02_financial_analysis.png)
+
+### Discount Analysis
+![Discount Analysis](screenshots/03_discount_analysis.png)
+
+### Segment & Order Analysis
+![Segment & Order Analysis](screenshots/04_segment_order_analysis.png)
+
+### Order Details
+![Order Details](screenshots/05_order_details.png)
+
+---
 ## Dashboard Structure
 
 The Power BI report contains five interconnected pages.
